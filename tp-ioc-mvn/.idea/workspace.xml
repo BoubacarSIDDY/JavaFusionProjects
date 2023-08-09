@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7e95225-72c9-49dc-9d00-7dc556d0b9ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../tp-ioc-mvn-version/config.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tp-ioc-mvn-version/src/main/java/com/isi/dao/DaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tp-ioc-mvn-version/src/main/java/com/isi/dao/IDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tp-ioc-mvn-version/src/main/java/com/isi/ext/DaoImplVC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tp-ioc-mvn-version/src/main/java/com/isi/metier/IMetier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tp-ioc-mvn-version/src/main/java/com/isi/metier/MetierImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tp-ioc-mvn-version/src/main/java/com/isi/presentation/Presentation1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/isi/dao/DaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/isi/dao/IDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/isi/metier/IMetier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/isi/metier/MetierImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/isi/presentation/Presentation1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tp-ioc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tp-ioc/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b7e95225-72c9-49dc-9d00-7dc556d0b9ab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

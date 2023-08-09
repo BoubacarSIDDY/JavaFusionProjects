@@ -1,2 +1,0 @@
-com.isi.ext.DaoImplVC
-com.isi.metier.MetierImpl
