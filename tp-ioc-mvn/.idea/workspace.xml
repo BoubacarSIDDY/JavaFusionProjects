@@ -4,18 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7e95225-72c9-49dc-9d00-7dc556d0b9ab" name="Changes" comment="" />
+    <list default="true" id="b7e95225-72c9-49dc-9d00-7dc556d0b9ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../tp-ioc-mvn-version/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp-ioc-mvn-version/src/main/java/com/isi/dao/DaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp-ioc-mvn-version/src/main/java/com/isi/dao/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp-ioc-mvn-version/src/main/java/com/isi/ext/DaoImplVC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp-ioc-mvn-version/src/main/java/com/isi/metier/IMetier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp-ioc-mvn-version/src/main/java/com/isi/metier/MetierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp-ioc-mvn-version/src/main/java/com/isi/presentation/Presentation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isi/dao/DaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isi/dao/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isi/metier/IMetier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isi/metier/MetierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isi/presentation/Presentation1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp-ioc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tp-ioc/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2Tioz4LuFLmTV9R3Zd6ahIP80ns" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,9 +50,30 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Boubacar Siddy Diall/Documents/codes/JavaFusionProjects/tp-ioc-mvn",
     "onboarding.tips.debug.path": "E:/M1/JAVA/JavaFusionProjects/tp-ioc-mvn/src/main/java/com/isi/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Presentation1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.isi.presentation.Presentation1" />
+      <module name="tp-ioc-mvn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.isi.presentation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Presentation1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
